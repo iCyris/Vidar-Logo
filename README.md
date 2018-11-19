@@ -9,8 +9,10 @@ Logo design for Vidar-Team.
 
 -- By veritas501
 
-## 2017 - HCTF (Final Ver.) 
+## HCTF - 2017 Final
 <img src="https://github.com/iCyris/Vidar-Logo/blob/master/2017-HCTF/preview/%E6%AD%A3%E9%9D%A2%EF%BC%88%E5%B7%A5%E4%BD%9C%E8%AF%81%EF%BC%89.png?raw=true" width="25%" height="25%"/>
+
+## HCTF - 2018 Final
 
 ## 2018 - Costume (Summer Ver.)
 <img src="https://github.com/iCyris/Vidar-Logo/blob/master/2018-%E5%A4%8F%E5%AD%A3%E4%BC%9A%E6%9C%8D/%E6%A0%B7%E4%BE%8B/%E6%A0%B7%E4%BE%8B1.png?raw=true" width="60%" height="60%"/>
@@ -22,3 +24,5 @@ Logo design for Vidar-Team.
 
 ## License
 GPL © [Cyris](https://github.com/iCyris). All rights reserved.
+
+
