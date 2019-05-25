@@ -25,6 +25,9 @@ Logo design for Vidar-Team.
 ## 2019 - Summer
 -- By 稳赚
 
+## 2019 - HGAME
+-- By 稳赚
+
 ## License
 GPL © [Cyris](https://github.com/iCyris). All rights reserved.
 
